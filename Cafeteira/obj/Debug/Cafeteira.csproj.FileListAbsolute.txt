@@ -1,0 +1,60 @@
+C:\Users\GH\Desktop\ADS\2° S\LP1\Lista 10-10\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe.config
+C:\Users\GH\Desktop\ADS\2° S\LP1\Lista 10-10\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe
+C:\Users\GH\Desktop\ADS\2° S\LP1\Lista 10-10\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.pdb
+C:\Users\GH\Desktop\ADS\2° S\LP1\Lista 10-10\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csprojResolveAssemblyReference.cache
+C:\Users\GH\Desktop\ADS\2° S\LP1\Lista 10-10\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.Form1.resources
+C:\Users\GH\Desktop\ADS\2° S\LP1\Lista 10-10\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.Properties.Resources.resources
+C:\Users\GH\Desktop\ADS\2° S\LP1\Lista 10-10\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csproj.GenerateResource.Cache
+C:\Users\GH\Desktop\ADS\2° S\LP1\Lista 10-10\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.exe
+C:\Users\GH\Desktop\ADS\2° S\LP1\Lista 10-10\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.pdb
+D:\ADS\LP1\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe.config
+D:\ADS\LP1\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.exe
+D:\ADS\LP1\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.pdb
+D:\ADS\LP1\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe
+D:\ADS\LP1\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.pdb
+D:\ADS\LP1\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csprojResolveAssemblyReference.cache
+D:\ADS\LP1\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.Form1.resources
+D:\ADS\LP1\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.Properties.Resources.resources
+D:\ADS\LP1\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csproj.GenerateResource.Cache
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.exe
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.pdb
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csprojResolveAssemblyReference.cache
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.Form1.resources
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.Properties.Resources.resources
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csproj.GenerateResource.Cache
+C:\Users\GH\Desktop\cafeteira\Cafeteira.exe.config
+C:\Users\GH\Desktop\cafeteira\Cafeteira.exe
+C:\Users\GH\Desktop\cafeteira\Cafeteira.pdb
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Cafeteira.exe.config
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Cafeteira.exe
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Cafeteira.pdb
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe.config
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.pdb
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Debug\Interop.WMPLib.dll
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Interop.WMPLib.dll
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csproj.ResolveComReference.cache
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe.manifest
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.application
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.exe.manifest
+C:\Users\GH\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.application
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe.config
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Interop.WMPLib.dll
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csproj.ResolveComReference.cache
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.exe
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.pdb
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe.manifest
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.application
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.exe
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\bin\Debug\Cafeteira.pdb
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\bin\Debug\Interop.WMPLib.dll
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csprojResolveAssemblyReference.cache
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.Form1.resources
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.Properties.Resources.resources
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.csproj.GenerateResource.Cache
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.exe.manifest
+C:\Users\GustavoHenriquePinhe\Desktop\cafeMineiro\Cafeteira\obj\Debug\Cafeteira.application
